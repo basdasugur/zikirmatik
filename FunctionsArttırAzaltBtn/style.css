@@ -1,0 +1,22 @@
+body{
+    color:#28B463;
+
+    text-align: center;
+
+}
+
+
+.buttons button{
+    margin: 50px;
+    padding: 50px;
+    font-size: 30px;
+    border-radius: 25px;
+    
+}
+
+.images img{
+    flex-direction: row;
+    width: 150px;
+    height: 150px;
+
+}
